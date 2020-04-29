@@ -3,14 +3,7 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-  apiKey: "AIzaSyDsIp_UA7eH09uwiOqvWem0beP-eTjGhlg",
-   authDomain: "virtus-db.firebaseapp.com",
-   databaseURL: "https://virtus-db.firebaseio.com",
-   projectId: "virtus-db",
-   storageBucket: "virtus-db.appspot.com",
-   messagingSenderId: "858459877295",
-   appId: "1:858459877295:web:bdbc24edcacab1a7ed895a",
-   measurementId: "G-L2JBE1Y1L8"
+
 };
 
 firebase.initializeApp(config);
